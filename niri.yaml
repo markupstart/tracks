@@ -16,15 +16,23 @@ packages:
   - 'swayosd'
   - 'nwg-look'
   - 'micro'
-  - 'swayosd'
   - 'mate-polkit'
   - 'mako'
   - 'fastfetch'
   - 'fish'
+  - 'eza'
+  - 'starship'
+  - 'zoxide'
+  - 'atuin'
   - 'copyq'
   - 'kitty'
-  - 'copyq'
-
+  - 'firefox'
+  - 'waybar'
+  - 'tuned'
+  - 'tuned-ppd'
 
 services:
   - 'gdm'
+
+user-services:
+  - 'xwayland-satellite'
