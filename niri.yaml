@@ -1,0 +1,30 @@
+impl: 'https://github.com/markupstart/tracks/raw/main'
+
+track: 'blendos-base'
+
+packages:
+  - 'niri'
+  - 'gdm'
+  - 'xorg-xwayland'
+  - 'xdg-desktop-portal-gnome'
+  - 'xwayland-satellite'
+  - 'thunar'
+  - 'thunar-media-tags-plugin'
+  - 'thunar-shares-plugin'
+  - 'thunar-vcs-plugin'
+  - 'thunar-volman'
+  - 'swayosd'
+  - 'nwg-look'
+  - 'micro'
+  - 'swayosd'
+  - 'mate-polkit'
+  - 'mako'
+  - 'fastfetch'
+  - 'fish'
+  - 'copyq'
+  - 'kitty'
+  - 'copyq'
+
+
+services:
+  - 'gdm'
